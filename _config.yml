@@ -1,0 +1,28 @@
+name: Two Six Creative
+favicon: null
+layout_spectrum: 0.20481139700859785
+typography_spectrum: 0.46058456297032535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.07626834325492382
+  lightness: 0.6900454070419073
+  saturation: 0.9935202070046216
+  rhythmicContrast: 0.6922531547024846
+purpose: []
