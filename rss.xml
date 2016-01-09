@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Two Six Creative]]></title>
+        <description><![CDATA[Two Six Creative]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 00:53:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Two Six Creative is Alive!]]></title>
+            <description><![CDATA[<article><h1>Two Six Creative is Alive!</h1><p>After months in the making Two Six Creative is alive and designing like all that matters is tomorrow. Spawned from an internal marketing initiative nearly a decade ago Two Six Creative is a fully functional design agency with over 50 years of collaborative experience. We're already happily busy and look forward to taking over Saskatchewan's design world one project at a time. Who's next? </p></article>]]></description>
+            <link>undefinedtwo-six-creative-is-alive/index.html</link>
+            <guid isPermaLink="false">51e077da-6fdf-4492-8f5b-44cbc97b212d</guid>
+            <pubDate>Sat, 09 Jan 2016 00:53:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
