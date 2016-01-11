@@ -1,6 +1,6 @@
 name: Two Six Creative
 favicon: null
-layout_spectrum: 0.91307
+layout_spectrum: 0.31169
 typography_spectrum: 0.55216
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#606081'
     - '#dfdfe5'
   brandStrength: 0.375
-  lightness: 0.75
+  lightness: 0.6875
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
