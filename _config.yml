@@ -1,19 +1,4 @@
-name: Two Six Creative
-favicon: null
-layout_spectrum: 0.50821
 typography_spectrum: 0.15816
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000034'
@@ -25,4 +10,20 @@ color:
   lightness: 0.875
   saturation: 0.1875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50821
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Two Six Creative
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: design made eay
 purpose: []
